@@ -45,6 +45,8 @@ margin-left: 10px;
     transform: translate(-5px);
 }
 @media screen and (max-width:330px){
-    
+    #logo{
+        font-size: 15px;
+    }
 }
 /*navbar content end*/
