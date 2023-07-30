@@ -26,6 +26,9 @@ margin-left: 10px;
     color: white;
     text-shadow: 1px 1px 1px black;
     margin-left: 15px;
-    transition: 0.5ms;
+    transition: 0.5ms ease;
+}
+.nav-link:hover{
+    background-color: #b16969;
 }
 /*navbar content end*/
