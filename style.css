@@ -6,3 +6,10 @@
 .all-content{
     background: #971313d7;
 }
+/*navbar content*/
+.navbar{
+    background-color: grey;
+    padding-left: 50px;
+    font-weight: bold;
+}
+/*navbar content end*/
